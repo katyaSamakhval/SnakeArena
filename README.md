@@ -1,7 +1,11 @@
+
+
+
+https://github.com/katyaSamakhval/SnakeArena/assets/151464786/2556e9b8-f3a8-4661-ba22-05df70704b78
+
 # Snake-Arena
 EAT FOOOOOD<br>
-https://github.com/katyaSamakhval/SnakeArena/assets/151464786/7a9a7d1a-a863-4045-9f7b-2fb8dd509b27
-<br>
+
 ↑ this is my snake game ↑
 <br>
 # **Description**<br>
