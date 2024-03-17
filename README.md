@@ -6,7 +6,7 @@ https://github.com/katyaSamakhval/SnakeArena/assets/151464786/2556e9b8-f3a8-4661
 # Snake-Arena
 EAT FOOOOOD<br>
 
-↑ this is my snake game ↑
+↑ this is my [snake game](https://github.com/katyaSamakhval/SnakeArena) ↑
 <br>
 # **Description**<br>
 > This game code was made by using JS and a little bit of HTML for website structure.<br>
